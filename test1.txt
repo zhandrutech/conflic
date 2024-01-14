@@ -1,1 +1,1 @@
-city:name
+city:bangalore
